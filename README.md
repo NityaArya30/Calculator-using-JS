@@ -15,7 +15,7 @@ The Calculator Project is a versatile and efficient web-based calculator that si
 This project is committed to providing users with a reliable and accessible calculator experience, promoting efficiency and accuracy in everyday mathematical tasks.
 
 ## Links to the Demo Project Respectively:
-https://nityaaarya30.github.io/MathMate/
+https://nityaarya30.github.io/Calculator-using-JS/
 
 ## Contribution 
 Do Star my Project and do contribute to it.
